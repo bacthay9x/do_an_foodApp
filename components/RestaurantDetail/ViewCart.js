@@ -157,7 +157,7 @@ export default function ViewCart({ navigation }) {
                 marginTop: 20,
                 backgroundColor: "black",
                 flexDirection: "row",
-                justifyContent: "flex-end",
+                justifyContent: "center",
                 padding: 15,
                 borderRadius: 30,
                 width: 300,
